@@ -37,7 +37,7 @@ The testing interface is located at `apps/testing_interface.html`. Open it in a 
 
 After loading a task, you will enter the test space, which looks like this:
 
-![test space](https://arc-benchmark.s3.amazonaws.com/figs/arc_test_space.png)
+![test space](file:///C:/MSc-Artificial%20Intelligence/Semester%201/Programming%20tools%20for%20AI/ARC-master/apps/testing_interface.html)
 
 On the left, you will see the input/output pairs demonstrating the nature of the task. In the middle, you will see the current test input grid. On the right, you will see the controls you can use to construct the corresponding output grid.
 
